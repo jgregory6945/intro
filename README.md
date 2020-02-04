@@ -1,3 +1,7 @@
 # intro
 Introduction to Github
-world one
+<<<<<Newnew
+Junius Gregory
+2/3/2020
+Stir-fry
+
